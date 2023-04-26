@@ -1,2 +1,2 @@
-# exploring-probability-distributions
+# Exploring-Probability-Distributions
 Probability Distributions and Data Analysis
